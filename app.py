@@ -27,7 +27,7 @@ EGS_WHITE = "#FFFFFF"
 
 USERS = {
     "yamila_vocos": {
-        "password": "EGSadmin2026",
+        "password": "EGS@YV_2026!Territorial",
         "nombre": "Yamila Vocos",
         "rol": "Administradora",
         "permisos": ["dashboard", "carga", "mapa", "analisis", "hotspots", "semaforo", "informe", "exportar", "guia", "admin"],

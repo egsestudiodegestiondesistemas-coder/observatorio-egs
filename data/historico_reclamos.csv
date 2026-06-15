@@ -1,0 +1,11 @@
+fecha,categoria,descripcion,direccion,barrio,latitud,longitud,estado,prioridad,fecha_resolucion,criticidad
+2026-01-10,Baches,Bache en esquina,Av. Libertador 1200,Centro,-31.4275,-62.0821,Pendiente,Media,,6
+2026-01-18,Iluminación,Luminaria apagada,Bv. 9 de Julio 850,Centro,-31.4301,-62.0812,Resuelto,Alta,2026-01-25,7
+2026-02-03,Pérdida de agua,Pérdida constante,Córdoba 300,Sarmiento,-31.4259,-62.091,En proceso,Alta,,9
+2026-02-20,Arbolado,Rama con riesgo,Mitre 600,Roca,-31.421,-62.0844,Pendiente,Alta,,8
+2026-03-14,Residuos,Acumulación de residuos,Italia 950,San Cayetano,-31.433,-62.0744,Resuelto,Media,2026-03-20,6
+2026-03-21,Drenaje urbano,Calle anegada,Av. Rosario 1800,Independencia,-31.4365,-62.0895,Pendiente,Alta,,9
+2026-04-04,Veredas,Vereda rota,Belgrano 700,Centro,-31.4282,-62.0799,Pendiente,Baja,,4
+2026-04-27,Baches,Pozo grande,Urquiza 1100,Roca,-31.4225,-62.0878,En proceso,Media,,7
+2026-09-08,Iluminación,Zona oscura,Avellaneda 1400,Sarmiento,-31.4267,-62.0932,Resuelto,Alta,2026-09-18,8
+2026-10-02,Pérdida de agua,Pérdida sobre calzada,San Martín 400,Centro,-31.4279,-62.0804,Pendiente,Alta,,10

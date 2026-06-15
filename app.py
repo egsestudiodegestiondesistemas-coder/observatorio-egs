@@ -122,7 +122,7 @@ def login_screen():
             else:
                 st.error("Usuario o contraseña incorrectos.")
 
-        st.info("Usuarios demo: yamila_vocos / marco_puricelli / invitado. Cambiar contraseñas antes de publicar.")
+        st.info("Acceso exclusivo para usuarios autorizados de EGS.")
 
 if "logged" not in st.session_state:
     st.session_state["logged"] = False

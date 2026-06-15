@@ -32,19 +32,6 @@ USERS = {
         "rol": "Administradora",
         "permisos": ["dashboard", "carga", "mapa", "analisis", "hotspots", "semaforo", "informe", "exportar", "guia", "admin"],
     },
-    "marco_puricelli": {
-        "password": "Gestor2026",
-        "nombre": "Marco Puricelli",
-        "rol": "Gestor",
-        "permisos": ["dashboard", "mapa", "analisis", "hotspots", "semaforo", "informe", "exportar", "guia"],
-    },
-    "invitado": {
-        "password": "Invitado2026",
-        "nombre": "Usuario invitado",
-        "rol": "Invitado",
-        "permisos": ["dashboard", "mapa", "analisis", "hotspots", "semaforo", "informe", "guia"],
-    },
-}
 
 def inject_css():
     st.markdown(f"""

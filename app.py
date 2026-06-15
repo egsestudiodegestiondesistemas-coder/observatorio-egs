@@ -32,7 +32,7 @@ USERS = {
         "rol": "Administradora",
         "permisos": ["dashboard", "carga", "mapa", "analisis", "hotspots", "semaforo", "informe", "exportar", "guia", "admin"],
     },
-
+    }
 def inject_css():
     st.markdown(f"""
     <style>
